@@ -4,7 +4,7 @@ step-1 => Clone the Repository=> git clone https://github.com/PradeepKumarBbiswa
 
 step-2 => npm install
 
-step-3=> npx react-native run-android
+step-3=>Start Application=> npx react-native run-android
 
 
 
